@@ -1,0 +1,4 @@
+2019-04-18 18:03:33,184  INFO [main] eCommerce:12 - *************** Started TC_LoginTest_001 ********* 
+2019-04-18 18:03:35,853  INFO [main] eCommerce:17 - *************** Providing login info ********* 
+2019-04-18 18:03:40,979  INFO [main] eCommerce:22 - Login in Clicked
+2019-04-18 18:03:47,515  INFO [main] eCommerce:27 - ***************Login is successfull********* 
