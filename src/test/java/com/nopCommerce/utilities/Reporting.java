@@ -27,7 +27,7 @@ public class Reporting extends TestListenerAdapter
 		//String repName="Test-Report-"+timeStamp+".html";
 		
 		
-		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
+		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+/Reports/TestReport.html);//specify location of the report
 				
 		htmlReporter.config().setDocumentTitle("nopCommerce Automation Report"); // Tile of report
 		htmlReporter.config().setReportName("nopCommerce  Functional Testing"); // name of the report
